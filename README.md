@@ -1,2 +1,2 @@
-# cousera
-data tools - Ivini 
+# Coursera
+Data tools - Ivini 
